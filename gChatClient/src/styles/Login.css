@@ -1,0 +1,10 @@
+.login-section {
+    border: 1px solid green;
+    height: 100vh;
+}
+
+.login-section form {
+    border: 1px solid black;
+    width: 50%;
+    text-align: center;
+}
